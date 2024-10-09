@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
 		cout<<argv[1]<<endl;
 		cout<<code<<endl;
 		cout<<value<<endl;
+		cout<<"koniec"<<endl;
 	}
 	return 0;
 }
